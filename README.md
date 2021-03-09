@@ -15,3 +15,5 @@ ng generate component inicio
 ... Estructura componente
 ng g c holi
 
+
+@juferoga
